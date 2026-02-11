@@ -1,16 +1,132 @@
-## Hi there 👋
+<h1 align="center">Yeltsin Alberto Arrestegui Toribio</h1>
+<h3 align="center">Backend Developer | DevOps | Linux & Infrastructure</h3>
 
-<!--
-**YAAT20/YAAT20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ingeniero de Sistemas enfocado en desarrollo backend e infraestructura.
+
+Experiencia construyendo y desplegando sistemas reales en entornos productivos, incluyendo servidores físicos montados y administrados manualmente en Linux.
+
+Especial interés en:
+
+* Backend Development
+* Arquitectura de sistemas
+* Docker & Contenerización
+* Servidores Linux (On-Premise)
+* Automatización y despliegue
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🏫 Sistema de Matrículas
+
+Sistema web desarrollado para la gestión académica en academia preuniversitaria.
+
+**Stack:**
+
+* Python
+* Django
+* Docker
+* SQLite / MariaDB
+* Ubuntu Server
+* Nginx
+
+**Características:**
+
+* Registro y gestión de estudiantes
+* Control de pagos
+* Administración de simulacros
+* Panel administrativo completo
+* Despliegue en servidor físico
+
+---
+
+### 📚 Banco de Preguntas
+
+Plataforma para gestión y generación de exámenes académicos.
+
+**Funcionalidades:**
+
+* Organización por cursos y temas
+* Niveles de dificultad
+* Generación automática de simulacros
+* Base de datos estructurada para escalabilidad
+
+---
+
+### 🍽 Sistema de Gestión de Restaurante
+
+Sistema de control operativo para restaurante con entorno local.
+
+**Características:**
+
+* Registro de pedidos
+* Envío automático a cocina
+* Control de caja
+* Gestión de productos
+* Integración con impresora térmica
+
+**Infraestructura:**
+
+* Servidor local Ubuntu
+* Base de datos MariaDB
+* Acceso por red interna
+* SSH y configuración de firewall UFW
+
+---
+
+## 🧱 Infraestructura y Arquitectura
+
+Experiencia montando servidor físico con:
+
+* Ubuntu Server
+* Docker & Docker Compose
+* Configuración de puertos y firewall (UFW)
+* Acceso remoto mediante SSH
+* Gestión manual de despliegues
+* Control de versiones con Git & GitHub
+
+Arquitectura típica utilizada:
+
+Usuario → Nginx → Contenedor Docker → Django → Base de Datos
+
+---
+
+## 🛠 Stack Tecnológico
+
+**Backend**
+
+* Python
+* Django
+* REST APIs
+
+**DevOps**
+
+* Docker
+* Linux
+* Git
+* GitHub
+
+**Base de Datos**
+
+* MariaDB
+* SQLite
+
+**Frontend**
+
+* HTML
+* Tailwind CSS
+
+---
+
+## 📈 Enfoque Profesional
+
+Me enfoco en construir soluciones funcionales, desplegables y mantenibles, priorizando estabilidad, estructura limpia y control de infraestructura.
+
+---
+
+📫 Contacto
+GitHub: https://github.com/YAAT20
