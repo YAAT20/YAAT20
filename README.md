@@ -61,5 +61,5 @@ Ingeniero de Sistemas con mentalidad **Full-Cycle Developer**: capacidad para di
 
 ### 📫 Conecta conmigo
 * **GitHub:** [YAAT20](https://github.com/YAAT20)
-* **LinkedIn:** [Tu Enlace Aquí]
+* **LinkedIn:** [Yeltsin Alberto Arrestegui Toribio](https://pe.linkedin.com/in/yeltsin-alberto-arrestegui-toribio-111507219)
 * **Ubicación:** Cajamarca, Perú 🇵🇪
