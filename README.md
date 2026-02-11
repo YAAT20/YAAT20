@@ -84,7 +84,7 @@ Experiencia montando servidor físico con:
 
 * Ubuntu Server
 * Docker & Docker Compose
-* Configuración de puertos y firewall (UFW)
+* Manejo de Cloudfare
 * Acceso remoto mediante SSH
 * Gestión manual de despliegues
 * Control de versiones con Git & GitHub
