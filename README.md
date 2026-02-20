@@ -1,11 +1,11 @@
 <h1 align="center">Yeltsin Alberto Arrestegui Toribio</h1>
 
 <p align="center">
-  <strong>Systems Engineer · Backend Developer · DevOps & Infrastructure</strong>
+  <strong>Ingeniero de Sistemas · Desarrollador Backend · Infraestructura y DevOps</strong>
 </p>
 
 <p align="center">
-  Diseño, desarrollo y despliego sistemas completos que reemplazan procesos manuales por soluciones escalables, seguras y medibles.
+  Diseño, desarrollo y despliego sistemas completos que reemplazan procesos manuales por soluciones seguras, escalables y medibles.
 </p>
 
 <p align="center">
@@ -19,81 +19,81 @@
 
 ---
 
-## Professional Profile
+## Perfil Profesional
 
 Ingeniero de Sistemas con enfoque **Full-Cycle**: backend, base de datos, infraestructura y despliegue.  
-Especializado en **automatización de procesos administrativos**, **control financiero**, y **arquitecturas On-Premise + Cloud híbridas**.
+Especializado en **automatización de procesos administrativos**, **control financiero**, y **arquitecturas híbridas On-Premise + Cloud**.
 
-Experiencia convirtiendo necesidades operativas reales en sistemas confiables que generan:
-- reducción de pérdidas
-- recuperación de deuda
-- mejora en trazabilidad
-- optimización de recursos técnicos
-
----
-
-## Selected Projects
-
-### Academic Management Ecosystem (Education / Fintech)
-
-Sistema integral para academias preuniversitarias y centros educativos.
-
-**Key Achievements**
-- Debt Recovery Engine: reducción del **100% de morosidad**, recuperando carteras de hasta **S/. 5,000** mediante automatización de recordatorios y control de pagos.
-- Question Bank Governance: centralización de **+3,000 reactivos**, reduciendo en **80%** el tiempo de generación de exámenes.
-- Process Automation: eliminación de errores humanos en matrículas, simulacros y recaudación.
-- Real-time Monitoring: trazabilidad completa de pagos, asistencias y evaluaciones.
-
-**Architecture**
-- Backend: Django (monolito modular)
-- Database: MariaDB
-- Infraestructura: Docker + Nginx + Gunicorn
-- Deployment: Servidor físico On-Premise con exposición segura
+Experiencia desarrollando sistemas que generan:
+- reducción de pérdidas económicas  
+- recuperación de deuda  
+- trazabilidad total de operaciones  
+- optimización de recursos tecnológicos  
 
 ---
 
-### Operational Intelligence System – Restaurant Sector
+## Proyectos Destacados
 
-Plataforma de control administrativo para restaurantes de pequeña y mediana escala.
+### Ecosistema Académico Integral
 
-**Key Achievements**
-- Cash Flow Control: prevención de pérdidas en cierres de caja mediante auditoría de ingresos y egresos.
-- Inventory Intelligence: control de ingredientes y stock en tiempo real.
-- Kitchen Workflow: impresión de pedidos por área y gestión por turnos (desayuno / almuerzo / cena).
-- Offline-First Design: alta disponibilidad en red local sin dependencia de internet.
+Sistema completo para la gestión administrativa y académica de instituciones educativas.
+
+**Logros clave**
+- Control de morosidad: reducción del **100 %**, recuperando carteras de hasta **S/. 5,000** mediante automatización de notificaciones y seguimiento de pagos.
+- Gobierno de datos: centralización de **+3,000 reactivos académicos**, reduciendo en **80 %** el tiempo de generación de exámenes.
+- Automatización operativa: eliminación de errores humanos en matrículas, simulacros y recaudación.
+- Trazabilidad en tiempo real: control de pagos, asistencias y evaluaciones.
+
+**Arquitectura**
+- Backend: Django (arquitectura modular)
+- Base de datos: MariaDB
+- Infraestructura: Docker, Nginx, Gunicorn
+- Despliegue: servidor físico On-Premise con acceso seguro
 
 ---
 
-## Infrastructure & DevOps Experience
+### Sistema de Gestión Operativa – Restaurantes
 
-**On-Premise & Hybrid Architectures**
+Plataforma administrativa para el control integral de restaurantes.
+
+**Logros clave**
+- Control de caja: reducción de pérdidas en cierres diarios mediante auditoría de ingresos y egresos.
+- Gestión de inventarios: control de insumos e ingredientes en tiempo real.
+- Flujo de cocina: impresión de pedidos por área y organización por turnos.
+- Alta disponibilidad: funcionamiento en red local sin dependencia de internet.
+
+---
+
+## Infraestructura y DevOps
+
+**Arquitectura On-Premise e Híbrida**
 - Migración de VPS limitado a **servidor físico propio**  
-  (6 Cores / 12 Threads · 32GB RAM)
-- Incremento de capacidad de memoria **x16**, permitiendo múltiples servicios concurrentes.
+  (6 núcleos / 12 hilos · 32 GB RAM).
+- Incremento de capacidad de memoria **x16**, permitiendo ejecutar múltiples servicios simultáneos.
 
-**Security & Networking**
-- Zero Trust exposure mediante Cloudflare Tunnels
-- Hardening Linux (UFW, SSH Keys, fail2ban)
-- Reverse proxy con Nginx
-- Contenerización completa con Docker & Docker Compose
+**Seguridad y Redes**
+- Exposición segura mediante Cloudflare Tunnels (Zero Trust).
+- Endurecimiento de servidores Linux (UFW, SSH Keys).
+- Reverse Proxy con Nginx.
+- Contenerización completa con Docker y Docker Compose.
 
 ---
 
-## Tech Stack
+## Tecnologías
 
-| Area | Tools |
+| Área | Tecnologías |
 |----|----|
 | Backend | Python, Django, Django REST Framework |
-| Infrastructure | Linux (Ubuntu Server), Docker, Nginx, Gunicorn |
-| Databases | MariaDB, MySQL, SQLite |
+| Infraestructura | Linux (Ubuntu Server), Docker, Nginx, Gunicorn |
+| Bases de Datos | MariaDB, MySQL, SQLite |
 | Frontend | Tailwind CSS, Bootstrap, JavaScript |
-| DevOps | Cloudflare, Reverse Proxy, On-Premise Servers |
-| Methodologies | RUP, Waterfall, Prototyping, Requirements Analysis |
-| Data Analysis | PSPP, Jamovi |
+| DevOps | Cloudflare, Reverse Proxy, Servidores On-Premise |
+| Metodologías | RUP, Cascada, Prototipado, Análisis de Requerimientos |
+| Análisis de Datos | PSPP, Jamovi |
 
 ---
 
-## Contact
+## Contacto
 
 <p>
   <a href="https://github.com/YAAT20">
@@ -104,4 +104,4 @@ Plataforma de control administrativo para restaurantes de pequeña y mediana esc
   </a>
 </p>
 
-**Location:** Cajamarca, Perú
+**Ubicación:** Cajamarca, Perú
