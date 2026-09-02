@@ -1,11 +1,11 @@
 <h1 align="center">Yeltsin Alberto Arrestegui Toribio</h1>
 
 <p align="center">
-  <strong>Ingeniero de Sistemas (Full-Stack & DevOps)</strong>[cite: 1]
+  <strong>Ingeniero de Sistemas (Full-Stack & DevOps)</strong>
 </p>
 
 <p align="center">
-  Diseño, desarrollo y despliego sistemas completos que reemplazan procesos manuales por soluciones seguras, escalables y medibles. Experiencia en el ciclo completo de soluciones tecnológicas, desde el desarrollo hasta su implementación y mantenimiento en producción[cite: 1].
+  Diseño, desarrollo y despliego sistemas completos que reemplazan procesos manuales por soluciones seguras, escalables y medibles. Experiencia en el ciclo completo de soluciones tecnológicas, desde el desarrollo hasta su implementación y mantenimiento en producción.
 </p>
 
 <p align="center">
@@ -23,36 +23,36 @@
 
 ## 👨‍💻 Perfil Profesional
 
-Bachiller en Ingeniería de Sistemas de la Universidad Nacional de Cajamarca con orientación hacia Full-Stack y DevOps[cite: 1]. Especializado en la administración de servidores Linux, infraestructura TI y desarrollo de aplicaciones web de alto impacto operativo[cite: 1]. 
+Bachiller en Ingeniería de Sistemas de la Universidad Nacional de Cajamarca con orientación hacia Full-Stack y DevOps[cite: 1]. Especializado en la administración de servidores Linux, infraestructura TI y desarrollo de aplicaciones web de alto impacto operativo. 
 
 ---
 
 ## 🚀 Experiencia y Proyectos Destacados
 
 ### 🎓 Ecosistema Académico Integral & Banco de Preguntas | Academia Robert Hooke
-*Sistema web para la gestión administrativa, académica y generación automatizada de evaluaciones.*[cite: 1]
+*Sistema web para la gestión administrativa, académica y generación automatizada de evaluaciones.
 
 **Logros y Características clave**
-- **Automatización Operativa:** Se automatizó aproximadamente el 70% de los procesos administrativos y el 80% del proceso de creación de exámenes[cite: 1].
-- **Generación Documental:** Desarrollo de generación automatizada de exámenes en formato Word combinando documentos DOCX mediante `python-docx` y `docxcompose`[cite: 1].
-- **Integraciones:** Implementación de visualización y edición de documentos desde el navegador con OnlyOffice (usando tokens JWT), y notificaciones automatizadas vía Firebase Cloud Messaging (FCM) y APIs de WhatsApp[cite: 1].
-- **Arquitectura e Infraestructura:** Diseño e implementación de una arquitectura contenerizada con Docker, desplegada sobre un servidor físico (Bare-metal) montado y configurado desde cero para entornos de producción[cite: 1].
+- **Automatización Operativa:** Se automatizó aproximadamente el 70% de los procesos administrativos y el 80% del proceso de creación de exámenes
+- **Generación Documental:** Desarrollo de generación automatizada de exámenes en formato Word combinando documentos DOCX mediante `python-docx` y `docxcompose`
+- **Integraciones:** Implementación de visualización y edición de documentos desde el navegador con OnlyOffice (usando tokens JWT), y notificaciones automatizadas vía Firebase Cloud Messaging (FCM) y APIs de WhatsApp.
+- **Arquitectura e Infraestructura:** Diseño e implementación de una arquitectura contenerizada con Docker, desplegada sobre un servidor físico (Bare-metal) montado y configurado desde cero para entornos de producción.
 
 ### 🍽️ Sistema POS y Gestión Operativa | Restaurante MyM
-*Plataforma administrativa integral para el control de operaciones gastronómicas en tiempo real.*[cite: 1]
+*Plataforma administrativa integral para el control de operaciones gastronómicas en tiempo real.
 
 **Logros y Características clave**
-- **Desarrollo Full-Stack:** Construido con Django, Python, JavaScript, HTML y Tailwind CSS[cite: 1].
-- **Gestión Financiera:** Implementación de módulo de caja soportando efectivo, Yape, Plin, tarjetas y transferencias, junto con la generación de boletas en PDF y envío por WhatsApp[cite: 1].
-- **Operación en Tiempo Real:** Integración con impresoras térmicas para envío de comandas directas a cocina e inventario sincronizado[cite: 1].
-- **Infraestructura Cloud:** Configuración de producción sobre un VPS Linux independiente, dominio, Nginx, Gunicorn y Cloudflare[cite: 1].
+- **Desarrollo Full-Stack:** Construido con Django, Python, JavaScript, HTML y Tailwind CSS.
+- **Gestión Financiera:** Implementación de módulo de caja soportando efectivo, Yape, Plin, tarjetas y transferencias, junto con la generación de boletas en PDF y envío por WhatsApp.
+- **Operación en Tiempo Real:** Integración con impresoras térmicas para envío de comandas directas a cocina e inventario sincronizado.
+- **Infraestructura Cloud:** Configuración de producción sobre un VPS Linux independiente, dominio, Nginx, Gunicorn y Cloudflare.
 
 ---
 
 ## 💻 Proyectos Personales
 
-- **Monitor del Sistema y Contenedores:** Desarrollo de una herramienta nativa para Linux utilizando Python y GTK. Implementa un dashboard en tiempo real para rastrear métricas del sistema, batería y contenedores Docker[cite: 1].
-- **Gestor de Finanzas Personales:** Aplicación de escritorio gráfica construida con GTK3 y Cairo, diseñada para el seguimiento eficiente de ingresos, gastos y ahorro[cite: 1].
+- **Monitor del Sistema y Contenedores:** Desarrollo de una herramienta nativa para Linux utilizando Python y GTK. Implementa un dashboard en tiempo real para rastrear métricas del sistema, batería y contenedores Docker.
+- **Gestor de Finanzas Personales:** Aplicación de escritorio gráfica construida con GTK3 y Cairo, diseñada para el seguimiento eficiente de ingresos, gastos y ahorro.
 
 ---
 
@@ -60,12 +60,12 @@ Bachiller en Ingeniería de Sistemas de la Universidad Nacional de Cajamarca con
 
 | Área | Tecnologías |
 |----|----|
-| **Backend** | Python, Django, Django REST Framework (DRF), Node.js[cite: 1] |
-| **Frontend** | JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, Select2[cite: 1] |
-| **Bases de Datos** | MariaDB, MySQL, PostgreSQL[cite: 1] |
-| **Infraestructura & DevOps** | Linux (Ubuntu), VPS, Servidores Físicos (Bare-metal), Docker, Nginx, Apache, Gunicorn, Cloudflare[cite: 1] |
-| **Servicios / Escritorio** | OnlyOffice, FCM, WhatsApp API, GTK3, Cairo[cite: 1] |
-| **Herramientas** | Git, GitHub, Metodologías (RUP, Cascada, Prototipos)[cite: 1] |
+| **Backend** | Python, Django, Django REST Framework (DRF), Node.js |
+| **Frontend** | JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, Select2 |
+| **Bases de Datos** | MariaDB, MySQL, PostgreSQL |
+| **Infraestructura & DevOps** | Linux (Ubuntu), VPS, Servidores Físicos (Bare-metal), Docker, Nginx, Apache, Gunicorn, Cloudflare |
+| **Servicios / Escritorio** | OnlyOffice, FCM, WhatsApp API, GTK3, Cairo |
+| **Herramientas** | Git, GitHub, Metodologías (RUP, Cascada, Prototipos) |
 
 ---
 
@@ -83,4 +83,4 @@ Bachiller en Ingeniería de Sistemas de la Universidad Nacional de Cajamarca con
   </a>
 </p>
 
-**Ubicación:** Cajamarca, Perú[cite: 1]
+**Ubicación:** Cajamarca, Perú.
