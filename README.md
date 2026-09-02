@@ -23,7 +23,7 @@
 
 ## 👨‍💻 Perfil Profesional
 
-Bachiller en Ingeniería de Sistemas de la Universidad Nacional de Cajamarca con orientación hacia Full-Stack y DevOps[cite: 1]. Especializado en la administración de servidores Linux, infraestructura TI y desarrollo de aplicaciones web de alto impacto operativo. 
+Bachiller en Ingeniería de Sistemas de la Universidad Nacional de Cajamarca con orientación hacia Full-Stack y DevOps. Especializado en la administración de servidores Linux, infraestructura TI y desarrollo de aplicaciones web de alto impacto operativo. 
 
 ---
 
