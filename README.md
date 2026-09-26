@@ -2,14 +2,6 @@
 <!-- HEADER -->
 <!-- ================================================================ -->
 <div align="center">
-
-  <!-- Banner -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Yeltsin%20(YAAT20)&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Linux%20Systems%20%26%20DevOps%20%7C%20Software%20Architect&descFontSize=18&descAlignY=62"
-    width="100%"
-    alt="Yeltsin YAAT20 Header"
-  />
-
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img
@@ -53,7 +45,6 @@
   </p>
 
 </div>
----
 
 ### 🚀 Sobre Mí
 
@@ -216,10 +207,6 @@ Soy **Bachiller en Ingeniería de Sistemas** radicado en **Cajamarca, Perú**, e
       </td>
     </tr>
   </table>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAAT20&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" />
-  </p>
 </div>
 
 ---
